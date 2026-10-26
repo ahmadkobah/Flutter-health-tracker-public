@@ -1,0 +1,12 @@
+{
+    "android.sdkPath": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk",
+    "android.emulatorPath": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk\\emulator\\emulator.exe",
+    "android.avdPath": "C:\\Users\\Ahmad\\.android\\avd",
+    "avdManager.androidSdkPath": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk",
+    "avdManager.emulatorPath": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulate.androidHome": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk",
+    "android.sdkManagerPath": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk\\cmdline-tools\\latest\\bin\\sdkmanager.bat",
+    "android.avdManagerPath": "C:\\Users\\Ahmad\\AppData\\Local\\Android\\Sdk\\cmdline-tools\\latest\\bin\\avdmanager.bat",
+    "android.studioPath": "C:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
+    "cmake.ignoreCMakeListsMissing": true
+}

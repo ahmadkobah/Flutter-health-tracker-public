@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1096747550797",
+    "firebase_url": "https://medicare-plus-38bf0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medicare-plus-38bf0",
+    "storage_bucket": "medicare-plus-38bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096747550797:android:bd7393fbeab8e8cbecf404",
+        "android_client_info": {
+          "package_name": "com.company.MedicarePlus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096747550797-3eb0na3ovsvg290h36e5n6pu6dm1bk9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.MedicarePlus",
+            "certificate_hash": "4094e59f56666ca4d3cf7be2d2beee53f35e347d"
+          }
+        },
+        {
+          "client_id": "1096747550797-o18iu35gon2ivjqv0eomuas68a8dk04j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PLRjbLTAmY0_bJYM6s-Gb2CJinIoKV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096747550797-1a48pkotmuermo2tulkurh783ndj0gtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096747550797-12srkhblpsscrg784vurdkr527cejdof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096747550797:android:145a21907cda7761ecf404",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096747550797-o18iu35gon2ivjqv0eomuas68a8dk04j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PLRjbLTAmY0_bJYM6s-Gb2CJinIoKV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096747550797-1a48pkotmuermo2tulkurh783ndj0gtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096747550797-12srkhblpsscrg784vurdkr527cejdof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
